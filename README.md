@@ -126,9 +126,9 @@ we need to try several combinations of them and see which combination can yield 
 Range of these combinations might depend on budget, computing resources and time available for it.
 Also, important consideration: evaluation metric to use as it can depend on what is important to measure for specific project at hands
 and different combinations can be winners for different metrics.
-We should not rely on just one method, but look at all toolbox available for handling imbalanced data like
+We should not rely on just one method, but need to look at all toolbox available for handling imbalanced data like
 Data-Level Techniques (Resampling) and Algorithm-Level Techniques (Cost-Sensitive Learning, Ensemble Methods, Anomaly Detection),
-chose several methods that can help for our dataset at hands, experiment with them and find combination that gives best results for our chosen metrics.
+choose several methods that can help for our dataset at hands, experiment with them and find combination that gives best results for our chosen metrics.
 
 
 ### Following up questions
